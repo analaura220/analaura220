@@ -8,7 +8,7 @@ Sou uma engenheira da computação em formação, apaixonada por programação, 
 - 💬 Vamos conversar sobre TI, Java, e mais!
 
 ## Me encontre:
-- 📧 Linkedin: in/ana-laura-silva-6378a520b
+- 📧 Linkedin: www.linkedin.com/in/analaura22
 - 📧 Email: analaurasilva705@gmail.com
 
 ## Projetos
