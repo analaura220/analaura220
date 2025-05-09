@@ -8,7 +8,8 @@ Sou uma engenheira da computação em formação, apaixonada por programação, 
 - 💬 Vamos conversar sobre TI, Java, e mais!
 
 ## Me encontre:
+- 📧 Linkedin: in/ana-laura-silva-6378a520b
 - 📧 Email: analaurasilva705@gmail.com
 
 ## Projetos
-- [Triangulo](https://github.com/analaura220/Triangulo) - Cálculo de áreas de triângulos.
+- [TrianguloCalculator](https://github.com/analaura220/Triangulo) - Cálculo de áreas de triângulos.
