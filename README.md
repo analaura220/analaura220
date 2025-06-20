@@ -12,4 +12,4 @@ Sou uma engenheira da computação em formação, apaixonada por programação, 
 - 📧 Email: analaurasilva705@gmail.com
 
 ## Projetos
-- [TrianguloCalculator](https://github.com/analaura220/Triangulo) - Cálculo de áreas de triângulos.
+- [SistemaPedidos](https://github.com/analaura220/SistemaPedidos) - Sistema simples de registro de pedidos.
