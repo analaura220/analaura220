@@ -13,3 +13,4 @@ Sou uma engenheira da computação em formação, apaixonada por programação, 
 
 ## Projetos
 - [SistemaPedidos](https://github.com/analaura220/SistemaPedidos) - Sistema simples de registro de pedidos.
+- [SRI](https://github.com/analaura220/SRI) - Sistema de Recuperação da Informação
