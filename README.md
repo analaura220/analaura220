@@ -35,7 +35,3 @@
 | [🔍 SRI](https://github.com/analaura220/SRI) | Sistema de Recuperação da Informação |
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analaura220&show_icons=true&theme=default&title_color=9A46CC&icon_color=9A46CC&border_color=9A46CC&hide_border=false" />
-</div>
