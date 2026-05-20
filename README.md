@@ -22,7 +22,7 @@
 
 ## 🔗 Me encontre
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-9A46CC?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/analaura22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9A46CC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analaura22)
 [![Email](https://img.shields.io/badge/Email-9A46CC?style=for-the-badge&logo=gmail&logoColor=white)](analaurasilva705@gmail.com)
 
 ---
