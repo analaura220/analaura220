@@ -1,16 +1,41 @@
+<div align="center">
+
 # Olá, sou Ana Laura! 👋
 
-Sou uma engenheira da computação em formação, apaixonada por programação, tecnologia e inovação. 
+**Engenheira da Computação em formação, movida por soluções tecnológicas que transformam processos e geram impacto real.**
 
-## Sobre mim
-- 👩‍💻 Cursando Engenharia da Computação.
-- 🌱 Sempre aprendendo mais sobre automação de processos e gestão de projetos.
+![](https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-9A46CC?style=for-the-badge)
+![](https://img.shields.io/badge/Automação%20de%20Processos-9A46CC?style=for-the-badge)
+![](https://img.shields.io/badge/Gestão%20de%20Projetos-7a35a3?style=for-the-badge)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Cursando **Engenharia da Computação**
+- 🌱 Sempre aprendendo mais sobre **automação de processos** e **gestão de projetos**
 - 💬 Vamos conversar sobre tecnologia e mais!
 
-## Me encontre:
-- 📧 Linkedin: www.linkedin.com/in/analaura22
-- 📧 Email: analaura.devj@gmail.com
+---
 
-## Projetos
-- [SistemaPedidos](https://github.com/analaura220/SistemaPedidos) - Sistema simples de registro de pedidos.
-- [SRI](https://github.com/analaura220/SRI) - Sistema de Recuperação da Informação
+## 🔗 Me encontre
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9A46CC?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/analaura22)
+[![Email](https://img.shields.io/badge/Email-9A46CC?style=for-the-badge&logo=gmail&logoColor=white)](analaurasilva705@gmail.com)
+
+---
+
+## 🚀 Projetos
+
+| Projeto | Descrição |
+|---|---|
+| [📋 SistemaPedidos](https://github.com/analaura220/SistemaPedidos) | Sistema simples de registro de pedidos |
+| [🔍 SRI](https://github.com/analaura220/SRI) | Sistema de Recuperação da Informação |
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=analaura220&show_icons=true&theme=default&title_color=9A46CC&icon_color=9A46CC&border_color=9A46CC&hide_border=false" />
+</div>
