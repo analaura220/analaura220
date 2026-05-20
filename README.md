@@ -4,9 +4,9 @@
 
 **Engenheira da Computação em formação, movida por soluções tecnológicas que transformam processos e geram impacto real.**
 
-![](https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-9A46CC?style=for-the-badge)
-![](https://img.shields.io/badge/Automação%20de%20Processos-9A46CC?style=for-the-badge)
-![](https://img.shields.io/badge/Gestão%20de%20Projetos-7a35a3?style=for-the-badge)
+<a href="#"><img src="https://img.shields.io/badge/Engenharia%20da%20Computa%C3%A7%C3%A3o-9A46CC?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Automação%20de%20Processos-9A46CC?style=for-the-badge" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Gestão%20de%20Projetos-7a35a3?style=for-the-badge" /></a>
 
 </div>
 
